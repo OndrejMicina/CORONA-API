@@ -10,4 +10,3 @@
 * využití paměti prohlížeče například pro ukládání historie či off-line dat
 * příklad projektu: Webová aplikace pro zobrazení informací o počasí s možností nastavení oblíbených měst, Webová aplikace - úkolovník, Webová aplikace pro ukládání bodů zájmu na mapě...
 
-"# CORONA-API" 
