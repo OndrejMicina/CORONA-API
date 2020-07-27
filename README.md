@@ -1,9 +1,9 @@
 ##  Corona API 
 
-*Všehochuť jak nikdy.*
+
 
 ### Zadanie
-Klientská webová aplikace s REST API
+*Klientská webová aplikace s REST API*
 
 * využití čistě klientských technologií HTML5, CSS, JavaScript, či JS vývojových frameworků (Angular, React, Vue ...)
 * konzumace dat pomocí REST API (může být využito existující REST API na Internetu)
