@@ -15,7 +15,6 @@ import {
 import { Alert } from "reactstrap";
 
 function App() {
-
   useEffect(() => {
     fetchItem();      
   }, []); 
@@ -36,8 +35,7 @@ function App() {
       console.log(item);
     } catch ({ message }) {
       console.log(message);
-    }
-    
+    }    
   }
 
 

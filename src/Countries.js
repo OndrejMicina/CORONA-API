@@ -8,7 +8,7 @@ import axios from "axios";
 function Countries() {
   useEffect(() => {
     fetchItems();
-  }, []); //
+  }, []); 
   var history=[];
 
   const addToHistory = (country) => {    
@@ -26,12 +26,8 @@ function Countries() {
           history.push(country);
       localStorage.setItem("history",JSON.stringify(history));
       }
-      
-
     }
   }
-
-
 
   const [items, setItems] = useState([]);
 
